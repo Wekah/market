@@ -1,0 +1,4 @@
+npm init -y
+npm install express cors multer @tensorflow/tfjs-node @tensorflow-models/mobilenet jimp
+
+npm install express puppeteer tesseract.js cors multer @tensorflow/tfjs-node @tensorflow-models/mobilenet jimp
